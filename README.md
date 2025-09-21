@@ -1,4 +1,4 @@
-![rrrrawrrr Banner](./5776f9432046af782459fed1b16073f8.gif)
+![=Banner](.catbanner.gif)
 
 # Hi, I’m **Agnes**  
 I write code that sometimes works, fix bugs I definitely didn’t intentionally create, and treat project management like a personality trait. 
