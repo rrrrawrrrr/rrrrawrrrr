@@ -1,4 +1,4 @@
-![Banner](./dino.gif)
+![Snake animation](github-contribution-grid-snake.svg)
 
 # 🟡 Hi, I’m **Agnes**!! 🟠  
 
